@@ -3,6 +3,7 @@ using Microsoft.Extensions.Hosting;
 
 namespace TodoApi
 {
+    // Last build version: #{Build.DefinitionName}# - #{Build.Buildnumber}#
     public class Program
     {
         public static void Main(string[] args)
